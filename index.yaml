@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  manisha:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-02-21T07:28:05.684014686Z"
+    description: A Helm chart for Kubernetes
+    digest: f3d9c67e5a01de980cb780967fa9729f4377279d638e900d42e5d62a731dcd0a
+    name: manisha
+    type: application
+    urls:
+    - manisha-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-02-21T07:28:05.683305641Z"
